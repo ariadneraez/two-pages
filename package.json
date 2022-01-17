@@ -1,0 +1,25 @@
+{
+  "name": "two-pages",
+  "version": "1.0.0",
+  "description": "Two pages at a time is the book reviewer you were looking for.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariadneraez/two-pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariadneraez/two-pages/issues"
+  },
+  "homepage": "https://github.com/ariadneraez/two-pages#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
